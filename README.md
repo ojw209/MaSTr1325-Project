@@ -1,5 +1,5 @@
 # MaSTr1325-Project
-Computer Vision project on the MaSTr1325 dataset (http://prints.vicos.si/publications/373/the-mastr1325-dataset-for-training-deep-usv-obstacle-detection-models). Primary focus of project is to progress my understanding of the Tensorflow packages, so thus expect nothing novel from the used approaches. Due credit must be given to the U-Net tutorial at: https://keras.io/examples/vision/oxford_pets_image_segmentation/.
+Computer Vision project on the MaSTr1325 dataset (http://prints.vicos.si/publications/373/the-mastr1325-dataset-for-training-deep-usv-obstacle-detection-models)[Use Allowed]. Primary focus of project is to progress my understanding of the Tensorflow packages and to train a NN capable of image segmentation around sea, sky and other objects. Due credit must be given to the U-Net tutorial at: https://keras.io/examples/vision/oxford_pets_image_segmentation/.
  
 ---
 
